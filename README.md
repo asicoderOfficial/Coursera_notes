@@ -17,7 +17,6 @@ All the cropped images belong to DeepLearning.ai lecture slides.
 I highly recommend to anyone reading this document that studies these online resources. They are simply amazing.
 
 Next coming:
-- Course 5 of DL specialization.
 - MLOps specialization.
 - NLP specialization.
 - GANs specialization.
